@@ -17,7 +17,7 @@ function App() {
     role: "MERN Stack Developer",
     description:
       "Creating beautiful and intuitive user experiences through thoughtful design and seamless interactions.",
-    imageUrl: "../public/pic.jpeg",
+    imageUrl: "../public/images/pic.jpeg",
     imageAlt: "Prince Dhiman profile photo",
     ctaPrimary: "Download CV",
     ctaSecondary: "Contact Me",
@@ -211,7 +211,7 @@ function App() {
               </h1>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <ProjectCard
-                  image="./public/MytodoApp.png"
+                  image="./public/images/MytodoApp.png"
                   title="Dynamic Todo App"
                   description="A dynamic todo app built using React and Bootstrap, allowing users to manage their tasks efficiently with features like real-time updates and team collaboration."
                   tags={["React", "Bootstrap"]}
@@ -220,7 +220,7 @@ function App() {
                   isDarkMode={isDarkMode}
                 />
                    <ProjectCard
-                  image="./public/signup.jpg"
+                  image="./public/images/signup.jpg"
                   title="User Login and Logout Interface"
                   description="A user login and Signup interface using MongoDB, MySQL, Node.js, Express.js, and React with Tailwind CSS."
                   tags={["React", "MongoDB", "MySQL", "Node.js", "Express.js", "Tailwind CSS"]}
@@ -229,7 +229,7 @@ function App() {
                   isDarkMode={isDarkMode}
                 />
                    <ProjectCard
-                  image="./public/calculatorApp.png"
+                  image="./public/images/calculatorApp.png"
                   title="Calculator App"
                   description="A simple calculator application built using React, Material UI, and Tailwind CSS for styling."
                   tags={["React", "Material UI", "Tailwind CSS"]}
@@ -238,7 +238,7 @@ function App() {
                   isDarkMode={isDarkMode}
                 />
                   <ProjectCard
-                  image="./public/cloneApp.png"
+                  image="./public/images/cloneApp.png"
                   title="WhatsApp Clone App"
                   description="A WhatsApp clone app built using React, Material UI, and Tailwind CSS for styling, with Node.js, MongoDB, Express.js for backend, and Socket.IO for real-time communication between server and client."
                   tags={["React", "Material UI", "Tailwind CSS", "Node.js", "MongoDB", "Express.js", "Socket.IO"]}
