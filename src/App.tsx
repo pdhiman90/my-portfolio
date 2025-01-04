@@ -170,7 +170,7 @@ function App() {
             {/* Hero Section */}
             <div
               ref={homeRef}
-              className=" flex items-center justify-center"
+              className=" flex items-center justify-center mt-16 md:mt-0"
             >
               <HeroSection info={info} scrollToContact={scrollToContact} />
             </div>
