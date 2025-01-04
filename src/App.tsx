@@ -17,7 +17,7 @@ function App() {
     role: "MERN Stack Developer",
     description:
       "Creating beautiful and intuitive user experiences through thoughtful design and seamless interactions.",
-    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8f0-AOCdGcOxuef5XpqHeMemHhiqWv6Rilg&s",
+    imageUrl: "/images/pic.jpeg",
     imageAlt: "Prince Dhiman profile photo",
     ctaPrimary: "Download CV",
     ctaSecondary: "Contact Me",
