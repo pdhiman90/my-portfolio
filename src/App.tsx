@@ -70,7 +70,7 @@ function App() {
     name: "Prince Dhiman",
     title: "Full Stack Developer & AI Enthusiast",
     description:
-      "I'm a full stack developer passionate about building AI-powered applications that solve real-world problems. My goal is to create innovative solutions that bridge the gap between cutting-edge technology and everyday users.",
+      "As a dedicated MERN stack developer, I specialize in building web applications with a strong focus on backend development using Node.js. Over the past 3 months, I have gained hands-on experience through an internship, where I worked on developing and optimizing backend systems. I am passionate about solving complex problems, learning new technologies, and collaborating with teams to create impactful digital solutions. I am excited to continue advancing my skills and contributing to meaningful projects.",
     image: "/images/pic.jpeg",
   };
 
