@@ -16,7 +16,7 @@ function App() {
     name: "Prince Dhiman",
     role: "MERN Stack Developer",
     description:
-      "Creating beautiful and intuitive user experiences through thoughtful design and seamless interactions.",
+      "I am a passionate MERN stack developer with a focus on backend web development using Node.js. With 3 months of internship experience, I have honed my skills in building efficient and scalable web applications. I am eager to continue growing and contributing to dynamic projects.",
     imageUrl: "/images/pic.jpeg",
     imageAlt: "Prince Dhiman profile photo",
     ctaPrimary: "Download CV",
