@@ -129,7 +129,7 @@ function AboutSection({ myinfo ,scrollToContact }: any) {
                 {description}
               </p>
               <div className="flex flex-wrap gap-4 justify-center md:justify-start">
-              <a href='../public/ResumeATS12.pdf' download>
+              <a href='../public/asset/ResumeATS12.pdf' download>
                 <button className="inline-flex items-center gap-2 px-6 py-3 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-all shadow-lg hover:shadow-xl">
                 <i className="fa-solid fa-download"></i>
                   Download CV
