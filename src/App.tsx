@@ -71,7 +71,7 @@ function App() {
     title: "Full Stack Developer & AI Enthusiast",
     description:
       "I'm a full stack developer passionate about building AI-powered applications that solve real-world problems. My goal is to create innovative solutions that bridge the gap between cutting-edge technology and everyday users.",
-    image: "../public/pic.jpeg",
+    image: "/images/pic.jpeg",
   };
 
   const frontendData = {
