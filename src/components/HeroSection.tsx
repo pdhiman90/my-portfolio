@@ -27,7 +27,7 @@ return (
               <p className="text-base md:text-lg mb-3">{role}</p>
               <p className="text-base md:text-lg mb-6">{description}</p>
               <div className="flex flex-col sm:flex-row gap-3 justify-center md:justify-start">
-             <a href='../public/asset/ResumeATS12.pdf' download>
+             <a href='/asset/ResumeATS12.pdf' download>
                 <button className="bg-blue-500 text-white px-5 py-2 rounded-md hover:bg-blue-600 transition-all shadow-lg hover:shadow-xl hover:shadow-blue-500/80 active:shadow-blue-500/90 w-[220px] sm:w-[180px] mx-auto sm:mx-0 flex items-center justify-center space-x-2" >
                   <i className="fa-solid fa-download"></i>
                   <span>{ctaPrimary}</span>
