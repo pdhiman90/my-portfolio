@@ -306,7 +306,7 @@ function ContactForm({ error, isDarkMode = false }: any) {
 
     emailjs
       .sendForm(
-        "service_t9i23bg",
+        "service_2e1k60l",
         "template_i9jlt8p",
         e.target,
         "Ee88arHw4Y36QF4bG"
