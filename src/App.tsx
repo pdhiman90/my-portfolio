@@ -229,12 +229,12 @@ function App() {
                   isDarkMode={isDarkMode}
                 />
                    <ProjectCard
-                  image="/images/calculatorApp.png"
-                  title="Calculator App"
-                  description="A simple calculator application built using React, Material UI, and Tailwind CSS for styling."
-                  tags={["React", "Material UI", "Tailwind CSS"]}
-                  codeLink="https://github.com/example/calculatorapp"
-                  demoLink="https://demo.example.com/calculatorapp"
+                  image="/images/Task Manager.png"
+                  title="Personal Task Manager"
+                  description="The Personal Task Manager is a web application built with the **MERN stack** (MongoDB, Express.js, React, and Node.js) designed to help users manage their daily tasks efficiently. Users can create, update, delete, and categorize tasks, set priorities, and track due dates. The app allows users to authenticate and store tasks. With a responsive and user-friendly interface powered by React and a backend API powered by Node.js and MongoDB, the app provides a seamless experience for task management."
+                  tags={["React", "Nodejs","Typescript","express","MongoDB","Responsive", "Tailwind CSS"]}
+                  codeLink="https://github.com/pdhiman90/personal-task-manager-front"
+                  demoLink="https://personal-task-manager-front-w2f2.vercel.app"
                   isDarkMode={isDarkMode}
                 />
                   <ProjectCard
