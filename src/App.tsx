@@ -248,7 +248,7 @@ function App() {
                 />
                  <ProjectCard
                   image="/images/E-Academia.png"
-                  title="WhatsApp Clone App"
+                  title="E-Academia"
                   description="Developed E-Academia, a responsive e-learning platform, as a college project to apply and explore React features and modern design principles. The project showcases my ability to create dynamic, user-friendly interfaces optimized for seamless learning experiences."
                   tags={["React", "React-dom", "Tailwind CSS", "react-icons", "Context API"]}
                   codeLink="https://github.com/pdhiman90/E_Learning"
