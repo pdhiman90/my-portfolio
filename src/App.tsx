@@ -16,7 +16,7 @@ function App() {
     name: "Prince Dhiman",
     role: "MERN Stack Developer",
     description:
-      "I am a passionate MERN stack developer with a focus on backend web development using Node.js. With 3 months of internship experience, I have honed my skills in building efficient and scalable web applications. I am eager to continue growing and contributing to dynamic projects.",
+      "I am a passionate MERN stack developer with a focus on backend web development using Node.js. With 6 months of internship experience, I have honed my skills in building efficient and scalable web applications. I am eager to continue growing and contributing to dynamic projects.",
     imageUrl: "/images/pic.jpeg",
     imageAlt: "Prince Dhiman profile photo",
     ctaPrimary: "Download CV",
@@ -68,9 +68,9 @@ function App() {
 
   const aboutMe = {
     name: "Prince Dhiman",
-    title: "Full Stack Developer & AI Enthusiast",
+    title: "Full Stack Developer",
     description:
-      "As a dedicated MERN stack developer, I specialize in building web applications with a strong focus on backend development using Node.js. Over the past 3 months, I have gained hands-on experience through an internship, where I worked on developing and optimizing backend systems. I am passionate about solving complex problems, learning new technologies, and collaborating with teams to create impactful digital solutions. I am excited to continue advancing my skills and contributing to meaningful projects.",
+      "As a dedicated MERN stack developer, I specialize in building web applications with a strong focus on backend development using Node.js. Over the past 6 months, I have gained hands-on experience through an internship, where I worked on developing and optimizing backend systems. I am passionate about solving complex problems, learning new technologies, and collaborating with teams to create impactful digital solutions. I am excited to continue advancing my skills and contributing to meaningful projects.",
     image: "/images/pic.jpeg",
   };
 
@@ -220,30 +220,12 @@ function App() {
                   isDarkMode={isDarkMode}
                 />
                    <ProjectCard
-                  image="/images/signup.jpg"
-                  title="User Login and Logout Interface"
-                  description="A user login and Signup interface using MongoDB, MySQL, Node.js, Express.js, and React with Tailwind CSS."
-                  tags={["React", "MongoDB", "MySQL", "Node.js", "Express.js", "Tailwind CSS"]}
-                  codeLink="https://github.com/example/userlogin"
-                  demoLink="https://demo.example.com/userlogin"
-                  isDarkMode={isDarkMode}
-                />
-                   <ProjectCard
                   image="/images/Task Manager.png"
                   title="Personal Task Manager"
                   description="The Personal Task Manager is a web application built with the **MERN stack** (MongoDB, Express.js, React, and Node.js) designed to help users manage their daily tasks efficiently. Users can create, update, delete, and categorize tasks, set priorities, and track due dates. The app allows users to authenticate and store tasks. With a responsive and user-friendly interface powered by React and a backend API powered by Node.js and MongoDB, the app provides a seamless experience for task management."
                   tags={["React", "Nodejs","Typescript","express","MongoDB","Responsive", "Tailwind CSS"]}
                   codeLink="https://github.com/pdhiman90/personal-task-manager-front"
                   demoLink="https://personal-task-manager-front-w2f2.vercel.app"
-                  isDarkMode={isDarkMode}
-                />
-                  <ProjectCard
-                  image="/images/cloneApp.png"
-                  title="WhatsApp Clone App"
-                  description="A WhatsApp clone app built using React, Material UI, and Tailwind CSS for styling, with Node.js, MongoDB, Express.js for backend, and Socket.IO for real-time communication between server and client."
-                  tags={["React", "Material UI", "Tailwind CSS", "Node.js", "MongoDB", "Express.js", "Socket.IO"]}
-                  codeLink="https://github.com/example/whatsappclone"
-                  demoLink="https://demo.example.com/whatsappclone"
                   isDarkMode={isDarkMode}
                 />
                  <ProjectCard
