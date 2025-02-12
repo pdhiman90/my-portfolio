@@ -120,7 +120,7 @@ function App() {
     skills: [
       { icon: "fab fa-git-alt", color: "text-orange-600", name: "Git" },
       { icon: "fas fa-code", color: "text-blue-500", name: "VS Code" },
-      { icon: "fab fa-figma", color: "text-purple-500", name: "Figma" },
+     // { icon: "fab fa-figma", color: "text-purple-500", name: "Figma" },
       { icon: "fas fa-paper-plane", color: "text-orange-500", name: "Postman" },
     ],
     gradientFrom: "orange-400",
